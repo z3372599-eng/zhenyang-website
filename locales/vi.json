@@ -1,0 +1,142 @@
+{
+  "companyShort": "Zhenyang Electric",
+  "companyEn": "Hebei Zhenyang Electric Technology Co., Ltd.",
+  "companyZh": "河北臻扬电气科技有限公司",
+  "footerIntro": "Phu kien duong day dien, bien bao an toan dien va san pham bao ho co ban cho thi cong, bao tri va cung ung du an.",
+  "nav": {
+    "home": "Trang chu",
+    "about": "Gioi thieu",
+    "products": "San pham",
+    "certificates": "Chung nhan",
+    "contact": "Lien he"
+  },
+  "buttons": {
+    "products": "Xem san pham",
+    "contact": "Lien he",
+    "catalogue": "Tai catalogue"
+  },
+  "home": {
+    "eyebrow": "Danh muc cho thi truong Viet Nam",
+    "title": "Nhà sản xuất phụ kiện đường dây điện và sản phẩm an toàn điện",
+    "lead": "Tap trung vao san pham chon loc cho thi cong duong day phan phoi, bao tri, du an EPC va kenh vat tu dien.",
+    "sectionTitle": "Danh muc san pham chon loc",
+    "sectionLead": "Phien ban V1.0 chi hien thi nam nhom san pham trong catalogue cho thi truong Viet Nam.",
+    "strengthTitle": "Tap trung cung ung du an B2B",
+    "strengthLead": "Website trinh bay ro nhom san pham va huong khach hang gui yeu cau de xac nhan chi tiet ky thuat."
+  },
+  "about": {
+    "title": "Gioi thieu",
+    "subtitle": "Hebei Zhenyang Electric Technology Co., Ltd. cung cap phu kien duong day, bien bao an toan, san pham bao ho va vat tu dien phu tro cho du an thuc te.",
+    "points": [
+      "Danh muc tap trung vao nhu cau du an luoi phan phoi tai Viet Nam.",
+      "V1.0 chi hien thi san pham trong catalogue da chon cho thi truong Viet Nam.",
+      "Chi tiet ky thuat co the xac nhan theo yeu cau du an, ban ve va muc dich su dung."
+    ]
+  },
+  "certificates": {
+    "title": "Chung nhan",
+    "subtitle": "Thong tin chung nhan doanh nghiep co trong catalogue. Ho so chi tiet co the cung cap khi trao doi yeu cau.",
+    "items": [
+      "Ho so nang luc doanh nghiep",
+      "Tai lieu catalogue san pham",
+      "Ho so cung ung du an",
+      "Vui long lien he de nhan chi tiet"
+    ]
+  },
+  "contact": {
+    "title": "Lien he",
+    "subtitle": "Gui yeu cau san pham, ban ve du an hoac ma san pham muc tieu de chung toi xac nhan chi tiet ky thuat.",
+    "company": "Cong ty",
+    "companyCn": "Ten tieng Trung",
+    "phone": "Dien thoai",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "address": "Dia chi",
+    "pending": "Dang cap nhat",
+    "catalogue": "Catalogue"
+  },
+  "products": {
+    "title": "San pham",
+    "subtitle": "Nam nhom san pham chon loc cho thi truong Viet Nam.",
+    "labels": {
+      "features": "Dac diem san pham",
+      "material": "Vat lieu / Ket cau",
+      "application": "Ung dung",
+      "packing": "Dong goi",
+      "customers": "Khach hang phu hop",
+      "details": "Chi tiet ky thuat"
+    },
+    "names": {
+      "strain": "Kep neo day dan",
+      "parallel": "Kep song song / kep noi nhanh",
+      "ipc": "Kep tiep dia xuyen cach dien",
+      "sign": "Bien bao an toan & bien ten thiet bi",
+      "helmet": "Mu bao ho thong dung"
+    },
+    "items": [
+      {
+        "id": "strain-clamp",
+        "name": "Kep neo day dan",
+        "summary": "Ma tham khao: NXJG-4, NXL-4, NLL-4.",
+        "features": "Luc kep on dinh, lap dat hieu qua, phu hop duong day phan phoi ngoai troi.",
+        "material": "Than hop kim nhom, tuy ma dung ket cau nem tu khoa hoac bat bulong.",
+        "application": "Dung cho co dinh dau cuoi, doan neo va bao tri duong day cach dien tren khong 10kV.",
+        "packing": "Dong goi: 30 cai / bao det.",
+        "customers": "Phu hop du an luoi phan phoi Viet Nam, nha thau EPC va nha phan phoi vat tu dien.",
+        "details": "Ma cuoi cung can xac nhan theo tiet dien day dan, cap luc cang va phuong phap lap dat.",
+        "images": ["/images/products/strain-nxjg-4.jpg", "/images/products/strain-nxl-4.jpg", "/images/products/strain-nll-4.jpg"]
+      },
+      {
+        "id": "parallel-groove-clamp",
+        "name": "Kep song song / kep noi nhanh",
+        "summary": "San pham tham khao trong tai lieu: kep chu C JC-41C.",
+        "features": "Dien tro tiep xuc thap, dan dien tot va ket noi nhanh on dinh.",
+        "material": "Kich co va vat lieu xac nhan theo tiet dien day dan va ban ve du an.",
+        "application": "Dung cho noi day, dau nhanh va nang cap luoi phan phoi.",
+        "packing": "Please contact us for technical details.",
+        "customers": "Phu hop nha thau EPC, don vi thi cong luoi phan phoi va nha phan phoi vat tu dien.",
+        "details": "Cac mau kep song song khac co the cung cap theo nhu cau du an.",
+        "images": ["/images/products/parallel-jc-41c.jpg", "/images/products/parallel-insulated.jpg"]
+      },
+      {
+        "id": "insulation-piercing-grounding-clamp",
+        "name": "Kep tiep dia xuyen cach dien",
+        "summary": "San pham ket noi tiep dia cho day boc cach dien.",
+        "features": "Giam thao tac boc vo, lap dat nhanh hon va ket noi tiep dia tin cay.",
+        "material": "Vo cach dien voi ket cau xuyen kim loai va ket noi tiep dia.",
+        "application": "Ket noi tiep dia cho day boc cach dien, tiep dia tam thoi va ho tro lam viec tren duong day.",
+        "packing": "Please contact us for technical details.",
+        "customers": "Don vi thi cong va bao tri duong day phan phoi.",
+        "details": "Thong so cuoi cung can xac nhan theo cap dien ap, tiet dien day dan va muc dich su dung.",
+        "images": ["/images/products/ipc-grounding.jpg"]
+      },
+      {
+        "id": "safety-equipment-sign",
+        "name": "Bien bao an toan & bien ten thiet bi",
+        "summary": "Bao gom bien thu tu pha, bien PVC, bien men su, bien hop kim nhom, bien FRP va bien inox 304.",
+        "features": "Nhan dien ro rang, dung ben ngoai troi va ho tro noi dung canh bao tuy chinh.",
+        "material": "Catalogue hien thi tuy chon PVC, men su, hop kim nhom, FRP va inox 304.",
+        "application": "Canh bao an toan dien, nhan dien thiet bi va quan ly an toan cong truong.",
+        "packing": "Dong goi: 100 cai / bao det, 500 cai / thung carton.",
+        "customers": "Dien luc, nha thau, doi bao tri va nha phan phoi.",
+        "details": "Ho tro noi dung tieng Viet / tieng Anh, mang phan quang, in UV, in lua va kich thuoc tuy chinh.",
+        "images": ["/images/products/sign-phase.jpg", "/images/products/sign-pvc.jpg", "/images/products/sign-enamel.jpg", "/images/products/sign-aluminum.jpg", "/images/products/sign-frp.jpg", "/images/products/sign-stainless.jpg"]
+      },
+      {
+        "id": "general-safety-helmet",
+        "name": "Mu bao ho thong dung",
+        "summary": "Co tuy chon vat lieu ABS va soi thuy tinh. ABS gom kieu chu V, mot gan co thong gio va mot gan khong thong gio.",
+        "features": "ABS: nhe va chong va dap. Soi thuy tinh: do cung cao hon va vo ben.",
+        "material": "Nhua ky thuat ABS hoac nhua gia cuong soi thuy tinh.",
+        "application": "Thi cong dien, bao tri duong day, bao tri ngoai troi va cong truong cong nghiep.",
+        "packing": "Please contact us for technical details.",
+        "customers": "Doi thi cong dien, doi bao tri va mua sam theo du an.",
+        "details": "Vat lieu soi thuy tinh khong phan loai ma rieng trong catalogue.",
+        "images": ["/images/products/helmet-abs-v.jpg", "/images/products/helmet-abs-rib.jpg", "/images/products/helmet-fiberglass.jpg"]
+      }
+    ]
+  },
+  "seo": {
+    "keywords": "power line hardware, strain clamp, parallel groove clamp, insulation piercing clamp, electrical safety sign, safety helmet, Vietnam power project, electrical equipment supplier"
+  }
+}

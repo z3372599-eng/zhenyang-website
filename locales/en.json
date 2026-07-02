@@ -1,0 +1,142 @@
+{
+  "companyShort": "Zhenyang Electric",
+  "companyEn": "Hebei Zhenyang Electric Technology Co., Ltd.",
+  "companyZh": "河北臻扬电气科技有限公司",
+  "footerIntro": "Power line hardware, electrical safety signs and basic protection products for distribution line construction, maintenance and project supply.",
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Products",
+    "certificates": "Certificates",
+    "contact": "Contact Us"
+  },
+  "buttons": {
+    "products": "View Products",
+    "contact": "Contact Us",
+    "catalogue": "Download Catalogue"
+  },
+  "home": {
+    "eyebrow": "Vietnam market product range",
+    "title": "Power Line Hardware & Electrical Safety Products Manufacturer",
+    "lead": "Focused on selected products for distribution line construction, maintenance, EPC projects and power supply channels.",
+    "sectionTitle": "Selected Product Range",
+    "sectionLead": "First version focuses on five product groups from the Vietnam catalogue.",
+    "strengthTitle": "B2B project supply focus",
+    "strengthLead": "The website presents practical product categories and directs buyers to contact us for technical details."
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Hebei Zhenyang Electric Technology Co., Ltd. supplies practical power line hardware, safety signs, protection products and supporting electrical equipment for field projects.",
+    "points": [
+      "Product range focused on Vietnam distribution line projects.",
+      "Selected catalogue products only; non-target products are not shown in V1.0.",
+      "Technical details can be confirmed according to project requirements."
+    ]
+  },
+  "certificates": {
+    "title": "Certificates",
+    "subtitle": "Company qualification materials are available in the catalogue. Detailed certificate files can be provided during inquiry communication.",
+    "items": [
+      "Business qualification materials",
+      "Product catalogue reference",
+      "Project supply documentation",
+      "Please contact us for certificate details"
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Send product requirements, project drawings or target models. Technical details can be confirmed according to project demand.",
+    "company": "Company",
+    "companyCn": "Chinese Name",
+    "phone": "Phone",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "address": "Address",
+    "pending": "To be filled",
+    "catalogue": "Catalogue"
+  },
+  "products": {
+    "title": "Products",
+    "subtitle": "Five selected product groups for Vietnam-focused promotion.",
+    "labels": {
+      "features": "Features",
+      "material": "Material / Structure",
+      "application": "Application",
+      "packing": "Packing",
+      "customers": "Suitable Customers",
+      "details": "Technical Details"
+    },
+    "names": {
+      "strain": "Strain Clamp",
+      "parallel": "Parallel Groove / Branch Connector Clamp",
+      "ipc": "Insulation Piercing Grounding Clamp",
+      "sign": "Safety & Equipment Sign",
+      "helmet": "General Safety Helmet"
+    },
+    "items": [
+      {
+        "id": "strain-clamp",
+        "name": "Strain Clamp",
+        "summary": "Reference models: NXJG-4, NXL-4, NLL-4.",
+        "features": "Reliable grip, efficient installation and outdoor distribution line use.",
+        "material": "Aluminum alloy body with wedge self-locking or bolted fixing structure by model.",
+        "application": "For 10kV overhead insulated conductor dead-end fixing, terminal fixing and line maintenance.",
+        "packing": "Packing: 30 pcs / woven bag.",
+        "customers": "For Vietnam projects, EPC contractors and distributors.",
+        "details": "Confirm model by conductor, tension grade and installation.",
+        "images": ["/images/products/strain-nxjg-4.jpg", "/images/products/strain-nxl-4.jpg", "/images/products/strain-nll-4.jpg"]
+      },
+      {
+        "id": "parallel-groove-clamp",
+        "name": "Parallel Groove / Branch Connector Clamp",
+        "summary": "Reference product in current file: JC-41C C-type clamp.",
+        "features": "Low contact resistance, good conductivity and stable branch connection.",
+        "material": "Sizes and material can be confirmed according to conductor section and project drawings.",
+        "application": "Conductor jointing, branch connection and distribution network upgrading.",
+        "packing": "Please contact us for technical details.",
+        "customers": "For EPC contractors, installers and distributors.",
+        "details": "Other parallel groove models can be supplied according to project demand.",
+        "images": ["/images/products/parallel-jc-41c.jpg", "/images/products/parallel-insulated.jpg"]
+      },
+      {
+        "id": "insulation-piercing-grounding-clamp",
+        "name": "Insulation Piercing Grounding Clamp",
+        "summary": "Grounding connection product for insulated conductors.",
+        "features": "Reduced stripping work, faster installation and reliable grounding connection.",
+        "material": "Insulated housing with metallic piercing and grounding connection structure.",
+        "application": "Grounding connection for insulated conductors, temporary grounding and live-line work support.",
+        "packing": "Please contact us for technical details.",
+        "customers": "Distribution line construction and maintenance teams.",
+        "details": "Final parameters should be confirmed by voltage level, conductor section and field use.",
+        "images": ["/images/products/ipc-grounding.jpg"]
+      },
+      {
+        "id": "safety-equipment-sign",
+        "name": "Safety & Equipment Sign",
+        "summary": "Includes phase sequence signs, PVC safety signs, enamel signs, aluminum alloy signs, FRP signs and stainless steel signs.",
+        "features": "Clear identification, durable outdoor use and customizable warning content.",
+        "material": "PVC, enamel, aluminum alloy, FRP and 304 stainless steel options are shown in the catalogue.",
+        "application": "Electrical safety warning, equipment identification and site safety management.",
+        "packing": "Packing: 100 pcs / woven bag, 500 pcs / carton.",
+        "customers": "Power utilities, contractors, maintenance teams and distributors.",
+        "details": "Vietnamese / English content, reflective film, UV printing, screen printing and custom sizes can be supported.",
+        "images": ["/images/products/sign-phase.jpg", "/images/products/sign-pvc.jpg", "/images/products/sign-enamel.jpg", "/images/products/sign-aluminum.jpg", "/images/products/sign-frp.jpg", "/images/products/sign-stainless.jpg"]
+      },
+      {
+        "id": "general-safety-helmet",
+        "name": "General Safety Helmet",
+        "summary": "ABS material and fiberglass material options. ABS includes V-shape, single-rib ventilated and single-rib non-ventilated types.",
+        "features": "ABS: lightweight and impact resistant. Fiberglass: higher rigidity and durable shell.",
+        "material": "ABS engineering plastic or fiberglass reinforced plastic.",
+        "application": "Power construction, line maintenance, outdoor maintenance and industrial job sites.",
+        "packing": "Please contact us for technical details.",
+        "customers": "Power construction teams, maintenance teams and project procurement.",
+        "details": "Fiberglass material has no separate model classification in the catalogue.",
+        "images": ["/images/products/helmet-abs-v.jpg", "/images/products/helmet-abs-rib.jpg", "/images/products/helmet-fiberglass.jpg"]
+      }
+    ]
+  },
+  "seo": {
+    "keywords": "power line hardware, strain clamp, parallel groove clamp, insulation piercing clamp, electrical safety sign, safety helmet, Vietnam power project, electrical equipment supplier"
+  }
+}

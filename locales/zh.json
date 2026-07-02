@@ -1,0 +1,142 @@
+{
+  "companyShort": "臻扬电气",
+  "companyEn": "Hebei Zhenyang Electric Technology Co., Ltd.",
+  "companyZh": "河北臻扬电气科技有限公司",
+  "footerIntro": "面向配网施工、线路维护、EPC项目和电力物资渠道，展示电力金具、安全标识和基础防护产品。",
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "products": "产品中心",
+    "certificates": "企业资质",
+    "contact": "联系我们"
+  },
+  "buttons": {
+    "products": "查看产品",
+    "contact": "联系我们",
+    "catalogue": "下载画册"
+  },
+  "home": {
+    "eyebrow": "越南市场产品范围",
+    "title": "电力金具及电力安全产品制造商",
+    "lead": "聚焦配网施工、线路维护、EPC项目与电力物资渠道的精选产品展示。",
+    "sectionTitle": "精选产品范围",
+    "sectionLead": "官网 V1.0 仅展示越南市场画册中的五类主推产品。",
+    "strengthTitle": "面向 B2B 工程采购",
+    "strengthLead": "网站用于清晰展示产品类别，并引导客户提交型号、图纸和项目需求以确认技术细节。"
+  },
+  "about": {
+    "title": "关于我们",
+    "subtitle": "河北臻扬电气科技有限公司面向电力工程现场提供线路金具、安全标识、防护用品及配套电力器材。",
+    "points": [
+      "产品范围聚焦越南配网建设和线路维护需求。",
+      "V1.0 仅展示画册中的对越主推产品，非目标产品暂不展示。",
+      "技术细节可根据项目需求、导线截面、图纸和现场用途确认。"
+    ]
+  },
+  "certificates": {
+    "title": "企业资质",
+    "subtitle": "企业资质信息已在画册中展示，具体证书文件可在询盘沟通过程中提供。",
+    "items": [
+      "企业资质资料",
+      "产品画册参考",
+      "项目供货资料",
+      "具体证书请联系我们获取"
+    ]
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "请发送产品需求、项目图纸或目标型号，我们将根据项目情况确认技术细节。",
+    "company": "公司名称",
+    "companyCn": "中文名称",
+    "phone": "电话",
+    "email": "邮箱",
+    "whatsapp": "WhatsApp",
+    "address": "地址",
+    "pending": "待填写",
+    "catalogue": "产品画册"
+  },
+  "products": {
+    "title": "产品中心",
+    "subtitle": "面向越南市场推广的五类精选产品。",
+    "labels": {
+      "features": "产品特点",
+      "material": "材质/结构",
+      "application": "用途",
+      "packing": "包装",
+      "customers": "适用客户",
+      "details": "技术细节"
+    },
+    "names": {
+      "strain": "耐张线夹",
+      "parallel": "并沟/分支连接线夹",
+      "ipc": "绝缘穿刺接地线夹",
+      "sign": "标识牌",
+      "helmet": "普通安全帽"
+    },
+    "items": [
+      {
+        "id": "strain-clamp",
+        "name": "耐张线夹",
+        "summary": "参考型号：NXJG-4、NXL-4、NLL-4。",
+        "features": "握力稳定，安装效率高，适合户外配电线路使用。",
+        "material": "铝合金本体，按型号采用楔形自锁或螺栓固定结构。",
+        "application": "用于10kV架空绝缘导线耐张段、终端固定及线路检修。",
+        "packing": "30个/编织袋。",
+        "customers": "适用于越南配网工程、EPC承包商及电力物资经销采购。",
+        "details": "按导线截面、拉力等级和施工方式确认最终型号。",
+        "images": ["/images/products/strain-nxjg-4.jpg", "/images/products/strain-nxl-4.jpg", "/images/products/strain-nll-4.jpg"]
+      },
+      {
+        "id": "parallel-groove-clamp",
+        "name": "并沟/分支连接线夹",
+        "summary": "当前文件参考产品：JC-41C C型线夹。",
+        "features": "接触电阻低，导电性能好，分支连接稳定。",
+        "material": "规格和材质可根据导线截面及项目图纸确认。",
+        "application": "用于导线接续、分支连接及配电网改造。",
+        "packing": "Please contact us for technical details.",
+        "customers": "适用于EPC承包商、配网施工单位及电力物资经销商。",
+        "details": "其他并沟线夹型号可按项目需求供货。",
+        "images": ["/images/products/parallel-jc-41c.jpg", "/images/products/parallel-insulated.jpg"]
+      },
+      {
+        "id": "insulation-piercing-grounding-clamp",
+        "name": "绝缘穿刺接地线夹",
+        "summary": "用于绝缘导线接地连接的产品。",
+        "features": "减少剥线工作，安装更快，接地连接可靠。",
+        "material": "绝缘外壳，配金属穿刺及接地连接结构。",
+        "application": "用于绝缘导线接地连接、临时接地及带电作业辅助。",
+        "packing": "Please contact us for technical details.",
+        "customers": "适用于配网施工和线路维护团队。",
+        "details": "最终参数需按电压等级、导线截面和现场用途确认。",
+        "images": ["/images/products/ipc-grounding.jpg"]
+      },
+      {
+        "id": "safety-equipment-sign",
+        "name": "标识牌",
+        "summary": "包括相序牌、PVC安全牌、搪瓷牌、铝合金设备牌、玻璃钢牌和304不锈钢牌。",
+        "features": "标识清晰，适合户外使用，可支持警示内容定制。",
+        "material": "画册展示 PVC、搪瓷、铝合金、玻璃钢、304不锈钢等材质。",
+        "application": "用于电力安全警示、设备标识和施工现场安全管理。",
+        "packing": "100个/编织袋，500个/纸箱。",
+        "customers": "适用于电力单位、施工承包商、维护团队和经销商。",
+        "details": "支持越南语/英语内容、反光膜、UV打印、丝网印刷和定制尺寸。",
+        "images": ["/images/products/sign-phase.jpg", "/images/products/sign-pvc.jpg", "/images/products/sign-enamel.jpg", "/images/products/sign-aluminum.jpg", "/images/products/sign-frp.jpg", "/images/products/sign-stainless.jpg"]
+      },
+      {
+        "id": "general-safety-helmet",
+        "name": "普通安全帽",
+        "summary": "包括 ABS 材质和玻璃钢材质。ABS 包含 V字帽型、单筋透气、单筋不透气三种帽型。",
+        "features": "ABS：轻便、抗冲击。玻璃钢：刚性更高，外壳耐用。",
+        "material": "ABS工程塑料或玻璃钢增强塑料。",
+        "application": "适用于电力施工、线路检修、户外检修和工业作业现场。",
+        "packing": "Please contact us for technical details.",
+        "customers": "适用于电力施工团队、维护团队和工程批量采购。",
+        "details": "玻璃钢材质在画册中不分型号。",
+        "images": ["/images/products/helmet-abs-v.jpg", "/images/products/helmet-abs-rib.jpg", "/images/products/helmet-fiberglass.jpg"]
+      }
+    ]
+  },
+  "seo": {
+    "keywords": "power line hardware, strain clamp, parallel groove clamp, insulation piercing clamp, electrical safety sign, safety helmet, Vietnam power project, electrical equipment supplier"
+  }
+}

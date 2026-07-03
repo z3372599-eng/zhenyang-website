@@ -26,11 +26,32 @@
   },
   "about": {
     "title": "Gioi thieu",
-    "subtitle": "Hebei Zhenyang Electric Technology Co., Ltd. cung cap phu kien duong day, bien bao an toan, san pham bao ho va vat tu dien phu tro cho du an thuc te.",
+    "subtitle": "Hebei Zhenyang Electric Technology Co., Ltd. la doanh nghiep tu nhan tap trung vao thiet bi dien, phu kien duong day dien va san pham phu tro.",
+    "profileLabel": "Ho so cong ty",
+    "profileTitle": "Nha san xuat thiet bi dien co dinh huong thuc te",
+    "profileBody": "Hebei Zhenyang Electric Technology Co., Ltd. duoc thanh lap ngay 12 thang 1 nam 2017. Cong ty chuyen san xuat thiet bi va linh kien dien, dong thoi phat trien san pham dien moi, cung cap dich vu ky thuat, cung ung san pham va ho tro du an. Voi von dang ky 36 trieu nhan dan te, cong ty xay dung he thong quan ly theo dinh huong chat luong va cung cap san pham phu hop cho cac ung dung cong trinh dien.",
     "points": [
-      "Danh muc tap trung vao nhu cau du an luoi phan phoi tai Viet Nam.",
-      "V1.0 chi hien thi san pham trong catalogue da chon cho thi truong Viet Nam.",
-      "Chi tiet ky thuat co the xac nhan theo yeu cau du an, ban ve va muc dich su dung."
+      "Thanh lap nam 2017, von dang ky 36 trieu nhan dan te.",
+      "Linh vuc kinh doanh gom R&D san pham dien, dich vu ky thuat va cung ung san pham.",
+      "Co tai lieu nang luc doanh nghiep va he thong quan ly chat luong.",
+      "Danh muc san pham tap trung vao nhu cau thuc te cua du an duong day phan phoi."
+    ],
+    "credentialsLabel": "Nang luc va danh hieu",
+    "credentialsTitle": "Ho so nang luc doanh nghiep",
+    "credentialsLead": "Cac trang duoi day duoc chon tu catalogue cong ty, the hien chung nhan, he thong quan ly va danh hieu doanh nghiep de khach hang tham khao.",
+    "credentials": [
+      {
+        "kicker": "Nang luc",
+        "title": "Chung nhan doanh nghiep",
+        "description": "Chung nhan he thong quan ly va tai lieu tin dung nha cung cap trong catalogue.",
+        "image": "/images/company/catalogue-03.png"
+      },
+      {
+        "kicker": "Danh hieu",
+        "title": "Danh hieu doanh nghiep",
+        "description": "Danh hieu, bang sang che va cac tai lieu cong nhan lien quan trong catalogue.",
+        "image": "/images/company/catalogue-04.png"
+      }
     ]
   },
   "certificates": {

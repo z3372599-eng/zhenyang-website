@@ -26,11 +26,32 @@
   },
   "about": {
     "title": "About Us",
-    "subtitle": "Hebei Zhenyang Electric Technology Co., Ltd. supplies practical power line hardware, safety signs, protection products and supporting electrical equipment for field projects.",
+    "subtitle": "Hebei Zhenyang Electric Technology Co., Ltd. is a private enterprise focused on electrical equipment, power line hardware and supporting products.",
+    "profileLabel": "Company profile",
+    "profileTitle": "Focused electrical equipment manufacturer",
+    "profileBody": "Hebei Zhenyang Electric Technology Co., Ltd. was established on January 12, 2017. The company specializes in the production of electrical equipment and components, with business covering research and development of new power products, technical services, product supply and project support. With a registered capital of 36 million yuan, the company has built a quality-oriented management system and continues to provide practical products for power engineering applications.",
     "points": [
-      "Product range focused on Vietnam distribution line projects.",
-      "Selected catalogue products only; non-target products are not shown in V1.0.",
-      "Technical details can be confirmed according to project requirements."
+      "Established in 2017 with registered capital of 36 million yuan.",
+      "Business scope covers power product R&D, technical services and product supply.",
+      "Quality management system and enterprise qualification materials are available.",
+      "Product selection focuses on practical needs in distribution line projects."
+    ],
+    "credentialsLabel": "Qualifications and honors",
+    "credentialsTitle": "Enterprise capability display",
+    "credentialsLead": "The following pages are selected from the company catalogue, showing qualification certificates, management system certifications and enterprise honors for buyer reference.",
+    "credentials": [
+      {
+        "kicker": "Qualification",
+        "title": "Enterprise Qualification",
+        "description": "Management system certifications and supplier credit materials from the company catalogue.",
+        "image": "/images/company/catalogue-03.png"
+      },
+      {
+        "kicker": "Honor",
+        "title": "Enterprise Honor",
+        "description": "Selected enterprise honors, patents and related recognition documents from the catalogue.",
+        "image": "/images/company/catalogue-04.png"
+      }
     ]
   },
   "certificates": {

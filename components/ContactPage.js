@@ -8,10 +8,10 @@ export default function ContactPage() {
   const rows = [
     [t.contact.company, t.companyEn],
     [t.contact.companyCn, t.companyZh],
-    [t.contact.phone, t.contact.pending],
-    [t.contact.email, t.contact.pending],
-    [t.contact.whatsapp, t.contact.pending],
-    [t.contact.address, t.contact.pending],
+    [t.contact.phone, t.contact.phoneValue || t.contact.pending],
+    [t.contact.email, t.contact.emailValue || t.contact.pending],
+    [t.contact.whatsapp, t.contact.whatsappValue || t.contact.pending],
+    [t.contact.address, t.contact.addressValue || t.contact.pending],
     [t.contact.catalogue, '/catalogues/zhenyang-catalogue-en-vi.pdf']
   ];
 

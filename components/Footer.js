@@ -21,9 +21,9 @@ export default function Footer() {
         </div>
         <div>
           <h3>{t.nav.contact}</h3>
-          <p>{t.contact.phone}: {t.contact.pending}</p>
-          <p>{t.contact.email}: {t.contact.pending}</p>
-          <p>{t.contact.whatsapp}: {t.contact.pending}</p>
+          <p>{t.contact.phone}: {t.contact.phoneValue || t.contact.pending}</p>
+          <p>{t.contact.email}: {t.contact.emailValue || t.contact.pending}</p>
+          <p>{t.contact.whatsapp}: {t.contact.whatsappValue || t.contact.pending}</p>
         </div>
       </div>
     </footer>

@@ -19,6 +19,7 @@
     "eyebrow": "Danh muc cho thi truong Viet Nam",
     "title": "Nhà sản xuất phụ kiện đường dây điện và sản phẩm an toàn điện",
     "lead": "Tap trung vao san pham chon loc cho thi cong duong day phan phoi, bao tri, du an EPC va kenh vat tu dien.",
+    "inquiryLead": "Gui model, hinh anh, ban ve va so luong de nhan bao gia.",
     "sectionTitle": "Danh muc san pham chon loc",
     "sectionLead": "Phien ban V1.0 chi hien thi nam nhom san pham trong catalogue cho thi truong Viet Nam.",
     "strengthTitle": "Tap trung cung ung du an B2B",
@@ -103,6 +104,7 @@
     "phoneValue": "19933295106",
     "emailValue": "z3372599@gmail.com",
     "whatsappValue": "19933295106",
+    "whatsappLink": "https://wa.me/8619933295106",
     "addressValue": "Khu cong nghiep Beilu, thi tran Liangzhao, thanh pho Renqiu, Thuong Chau, tinh Ha Bac, Trung Quoc",
     "catalogue": "Catalogue"
   },

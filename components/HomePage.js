@@ -27,6 +27,7 @@ export default function HomePage() {
             <div className="eyebrow">{t.home.eyebrow}</div>
             <h1>{t.home.title}</h1>
             <p className="lead">{t.home.lead}</p>
+            <p className="hero-note">{t.home.inquiryLead}</p>
             <div className="actions">
               <Link className="btn primary" href="/products">{t.buttons.products}</Link>
               <Link className="btn secondary" href="/contact">{t.buttons.contact}</Link>

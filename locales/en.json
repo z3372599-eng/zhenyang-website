@@ -56,12 +56,38 @@
   },
   "certificates": {
     "title": "Certificates",
-    "subtitle": "Company qualification materials are available in the catalogue. Detailed certificate files can be provided during inquiry communication.",
+    "subtitle": "Enterprise qualifications, management system certificates, supplier credit materials and company honors for buyer reference.",
+    "kicker": "Qualification files",
+    "heading": "Documents for project procurement",
+    "body": "The company catalogue includes management system certificates, supplier credit materials, production licenses, patent certificates, quality awards and related honors. This page provides a clear preview of the qualification and honor pages. Detailed certificate scans, validity information and project supply documents can be provided according to inquiry requirements.",
+    "highlights": [
+      "Quality, environmental and occupational health and safety management certifications",
+      "Supplier credit, integrity operation and quality service materials",
+      "Production license, patent certificates and software copyright materials",
+      "Quality awards, technical achievement materials and enterprise honors"
+    ],
+    "previewLabel": "Catalogue preview",
+    "previewTitle": "Qualification Pages From Catalogue",
+    "previewLead": "The following two pages are selected from the Vietnam product catalogue, showing enterprise qualifications and honors. Buyers can request specific high-resolution certificate files during inquiry communication.",
+    "documents": [
+      {
+        "kicker": "01 Qualification",
+        "title": "Enterprise Qualification",
+        "description": "Management system certifications, supplier credit materials and company qualification documents.",
+        "image": "/images/company/catalogue-03.png"
+      },
+      {
+        "kicker": "02 Honor",
+        "title": "Enterprise Honor",
+        "description": "Company honors, patent certificates, quality awards and related recognition documents.",
+        "image": "/images/company/catalogue-04.png"
+      }
+    ],
     "items": [
-      "Business qualification materials",
-      "Product catalogue reference",
-      "Project supply documentation",
-      "Please contact us for certificate details"
+      "Qualification materials available on request",
+      "Catalogue reference for initial review",
+      "Project supply documents for inquiry support",
+      "Contact us for detailed certificate files"
     ]
   },
   "contact": {

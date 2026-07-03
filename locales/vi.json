@@ -56,12 +56,38 @@
   },
   "certificates": {
     "title": "Chung nhan",
-    "subtitle": "Thong tin chung nhan doanh nghiep co trong catalogue. Ho so chi tiet co the cung cap khi trao doi yeu cau.",
+    "subtitle": "Ho so nang luc, chung nhan he thong quan ly, tai lieu tin dung nha cung cap va danh hieu doanh nghiep de khach hang tham khao.",
+    "kicker": "Ho so nang luc",
+    "heading": "Tai lieu cho mua sam du an",
+    "body": "Catalogue cong ty bao gom chung nhan he thong quan ly, tai lieu tin dung nha cung cap, giay phep san xuat, bang sang che, giai thuong chat luong va cac danh hieu lien quan. Trang nay hien thi ban xem truoc ve nang luc va danh hieu. Ban scan chung nhan, thoi han hieu luc va tai lieu cung ung du an co the duoc cung cap theo yeu cau khi trao doi.",
+    "highlights": [
+      "Chung nhan quan ly chat luong, moi truong va an toan suc khoe nghe nghiep",
+      "Tai lieu tin dung nha cung cap, kinh doanh uy tin va dich vu chat luong",
+      "Giay phep san xuat, bang sang che va tai lieu ban quyen phan mem",
+      "Giai thuong chat luong, thanh tuu ky thuat va danh hieu doanh nghiep"
+    ],
+    "previewLabel": "Xem truoc catalogue",
+    "previewTitle": "Trang chung nhan trong catalogue",
+    "previewLead": "Hai trang duoi day duoc chon tu catalogue san pham cho thi truong Viet Nam, the hien nang luc va danh hieu doanh nghiep. Khach hang co the yeu cau file chung nhan ro net khi gui yeu cau.",
+    "documents": [
+      {
+        "kicker": "01 Nang luc",
+        "title": "Chung nhan doanh nghiep",
+        "description": "Chung nhan he thong quan ly, tai lieu tin dung nha cung cap va ho so nang luc cong ty.",
+        "image": "/images/company/catalogue-03.png"
+      },
+      {
+        "kicker": "02 Danh hieu",
+        "title": "Danh hieu doanh nghiep",
+        "description": "Danh hieu cong ty, bang sang che, giai thuong chat luong va tai lieu cong nhan lien quan.",
+        "image": "/images/company/catalogue-04.png"
+      }
+    ],
     "items": [
-      "Ho so nang luc doanh nghiep",
-      "Tai lieu catalogue san pham",
-      "Ho so cung ung du an",
-      "Vui long lien he de nhan chi tiet"
+      "Ho so nang luc co the cung cap theo yeu cau",
+      "Catalogue dung cho danh gia ban dau",
+      "Tai lieu cung ung du an ho tro trao doi",
+      "Lien he de nhan file chung nhan chi tiet"
     ]
   },
   "contact": {

@@ -32,7 +32,7 @@ export default function ProductDetail({ product }) {
         </div>
         <div className="actions">
           <Link className="btn primary" href="/contact">{t.buttons.contact}</Link>
-          <a className="btn secondary" href="/catalogues/zhenyang-catalogue-en-vi.pdf">{t.buttons.catalogue}</a>
+          <a className="btn secondary" href={t.cataloguePath}>{t.buttons.catalogue}</a>
         </div>
       </div>
     </article>

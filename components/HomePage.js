@@ -73,7 +73,7 @@ export default function HomePage() {
             <h3>{t.companyEn}</h3>
             <p>{t.companyZh}</p>
             <div className="actions">
-              <a className="btn primary" href="/catalogues/zhenyang-catalogue-en-vi.pdf">{t.buttons.catalogue}</a>
+              <a className="btn primary" href={t.cataloguePath}>{t.buttons.catalogue}</a>
             </div>
           </div>
         </div>

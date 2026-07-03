@@ -19,7 +19,7 @@ export default function CertificatesPage() {
             <p>{t.certificates.body}</p>
             <div className="certificate-actions">
               <a className="btn primary" href="/contact">{t.buttons.contact}</a>
-              <a className="btn secondary" href="/catalogues/zhenyang-catalogue-en-vi.pdf">{t.buttons.catalogue}</a>
+              <a className="btn secondary" href={t.cataloguePath}>{t.buttons.catalogue}</a>
             </div>
           </div>
           <div className="certificate-highlights">

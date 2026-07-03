@@ -12,7 +12,7 @@ export default function ContactPage() {
     { label: t.contact.email, value: t.contact.emailValue || t.contact.pending, href: `mailto:${t.contact.emailValue || ''}` },
     { label: t.contact.whatsapp, value: t.contact.whatsappValue || t.contact.pending, href: t.contact.whatsappLink },
     { label: t.contact.address, value: t.contact.addressValue || t.contact.pending },
-    { label: t.contact.catalogue, value: t.buttons.catalogue, href: '/catalogues/zhenyang-catalogue-en-vi.pdf' }
+    { label: t.contact.catalogue, value: t.buttons.catalogue, href: t.cataloguePath }
   ];
 
   return (

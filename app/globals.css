@@ -264,6 +264,37 @@ strong {
   padding: 76px 0;
 }
 
+.split {
+  display: grid;
+  grid-template-columns: minmax(0, 0.95fr) minmax(0, 1.05fr);
+  gap: 40px;
+  align-items: start;
+}
+
+.feature-list {
+  display: grid;
+  gap: 14px;
+}
+
+.feature-list div {
+  display: grid;
+  gap: 6px;
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--white);
+}
+
+.feature-list strong {
+  color: var(--navy);
+  font-size: 18px;
+}
+
+.feature-list span {
+  color: var(--muted);
+  line-height: 1.7;
+}
+
 .section.alt {
   background: var(--soft);
   border-top: 1px solid var(--line);
@@ -569,6 +600,7 @@ strong {
   .about-layout,
   .certificate-layout,
   .product-detail,
+  .split,
   .footer-grid {
     grid-template-columns: 1fr;
   }
